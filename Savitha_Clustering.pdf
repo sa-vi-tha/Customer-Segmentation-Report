@@ -1,0 +1,18 @@
+Customer Segmentation Report
+
+
+Customer segmentation is a process of dividing customers into distinct groups based on shared characteristics, enabling businesses to target their 
+strategies more effectively.It helps in personalizing marketing efforts, improving customer retention, and identifying profitable customer groups.
+
+WCSS (Elbow Method) to determine the optimal number of clusters.
+
+Clustering Results
+Based on the WCSS plot, we selected 4 clusters as the optimal number.
+
+ Insights:
+Cluster 1 customers are high-value, and targeted loyalty programs can improve retention.
+Cluster 2 customers are price-sensitive, and offering discounts or promotions could increase sales.
+Cluster 3 includes new customers, and onboarding campaigns can help boost engagement
+
+The segmentation revealed 4 distinct customer groups, each with unique spending patterns and preferences. 
+This information can guide targeted marketing, product pricing strategies, and customer engagement campaigns

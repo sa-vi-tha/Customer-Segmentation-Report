@@ -1,0 +1,32 @@
+Exploratory Data Analysis Report
+
+
+Objective:
+To identify key trends and generate insights to assist in business decision-making.
+
+
+Dataset Overview
+Files Analyzed:
+
+Customers.csv: Contains 500+ customers with details like name, region, and signup date.
+Products.csv: Lists all products with their category and price.
+Transactions.csv: Captures transaction details, including quantity, price, and value.
+
+
+Include summary statistics such as:
+
+Customer Demographics:
+Number of customers per region.
+Signup trends over time (e.g., monthly/yearly).
+
+Product Details:
+Top-selling product categories.
+Price range (min, max, average).
+
+Transactions:
+Average transaction value.
+Total revenue generated.
+
+
+This analysis highlights that revenue is driven by North American customers and high-priced electronics.
+ December sales spikes emphasize the importance of holiday marketing.
